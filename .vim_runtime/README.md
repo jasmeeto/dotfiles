@@ -1,3 +1,5 @@
+###Note: belongs to amix at https://github.com/amix/vimrc
+
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
