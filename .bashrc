@@ -16890,6 +16890,9 @@ alias tmux="tmux -2"
 [ -n "$TMUX" ] && export TERM=screen-256color
 #alias tmux="TERM=screen-256color tmux"
 
+export JAVA_HOME="/usr/lib/jvm/java-7-openjdk-i386"
+export PATH=${PATH}:~/Downloads/adt-bundle-linux-x86-20130911/sdk/tools:~/Downloads/adt-bundle-linux-x86-20130911/sdk/platform-tools:/usr/lib/jvm/java-7-openjdk-i386
+
 ##################################################
 ##################################################
 ##################################################
