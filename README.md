@@ -13,3 +13,4 @@ For awesome:
     cp dotfiles/.vim_runtime ~
     sh ~/.vim_runtime/install_awesome_vimrc.sh
 
+Custom vimrc configurations go under: `~/.vim_runtime/my_configs.vim`
