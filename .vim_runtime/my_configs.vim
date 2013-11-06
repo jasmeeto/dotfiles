@@ -13,6 +13,14 @@ else
 endif
 echo "done something"
 
+" Supertab settings
+" supertab + eclim == java win
+let g:SuperTabDefaultCompletionTypeDiscovery = [
+\ "&completefunc:<c-x><c-u>",
+\ "&omnifunc:<c-x><c-o>",
+\ ]
+let g:SuperTabLongestHighlight = 1
+
 syntax on
 syntax enable
 set background=dark
